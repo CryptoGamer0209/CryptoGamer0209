@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Niko (@CryptoGamer0209)
+# 👋 Hi there, I'm @CryptoGamer0209
 
 I'm a tech enthusiast who loves combining **hardware** and **education**.  
 Currently, I'm working on a DIY **Analog-to-Digital Microscope Kit** to bring science and technology closer to curious minds. 🔬✨
