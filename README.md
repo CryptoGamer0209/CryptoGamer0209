@@ -35,7 +35,7 @@ Projects that:
 ---
 
 ## 📫 Reach me at:
-📧 [niko.vehrens@outlook.de](niko.vehrens+github@outlook.de)
+📧 [niko.vehrens@outlook.de](mailto:niko.vehrens+github@outlook.de)
 
 ---
 
