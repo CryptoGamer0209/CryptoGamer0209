@@ -19,22 +19,6 @@ Currently, I'm working on a DIY **Analog-to-Digital Microscope Kit** to bring sc
 
 ---
 
-## 🌱 Current Project
-**🔍 Analog-to-Digital Microscope Kit**  
-A customizable kit that upgrades analog microscopes with digital features.  
-
-# Coming out soon!
-
----
-
-## 🤝 Looking to Collaborate On
-Projects that:
-- Help people **learn** technology
-- Encourage **creativity**
-- Use **hardware** in smart, fun ways
-
----
-
 ## 📫 Reach me at:
 📧 [niko.vehrens@outlook.de](mailto:niko.vehrens+github@outlook.de)
 
